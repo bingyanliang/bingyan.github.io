@@ -1,44 +1,39 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Bingyan Liang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Bingyan
+last_name: Liang
 
 # Status emoji
-status:
-  icon: ☕️
+status: 🎧
+  icon: 🎮
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Hopkins Computational Imaging Group
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Machine Learning, Optimization and Stochastic Process.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:bingyanliang0@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/github
+    url: https://github.com/bingyanliang
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/bingyan-liang
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
@@ -54,6 +49,11 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there. I am a research assistant at the Hopkins Computational Imaging Group. My research interests include
+Machine Learning, Optimization and Imaging. Now I am working on image reconstruction optimization under Professor Yu Sun.
+
+I recently graduated from University of Wisconsin - Madison with MS in Statistics and Data Science. I interned in MLOptic 
+as a junior software Engineer. And I came back as an intern this summer working on Machine Leaning tools for image defect detections.
+
+My earlier background as an undergraduate was in Mathematics and Applied Mathematics. I conducted my initial research experience 
+under Professor Yaping Wu on biological diffusion model and Professor Hengjian, Cui on Mathematical Analysis.
