@@ -49,11 +49,8 @@ highlight_name: true
 website: ""
 ---
 
-Hi there. I am a research assistant at the Hopkins Computational Imaging Group. My research interests include
-Machine Learning, Optimization and Imaging. Now I am working on image reconstruction optimization under Professor Yu Sun.
+Hi! I am a research assistant at the Hopkins Computational Imaging Group, where I focus on image reconstruction optimization under Professor Yu Sun. My research interests include machine learning, optimization, and imaging.
 
-I recently graduated from University of Wisconsin - Madison with MS in Statistics and Data Science. I interned in MLOptic 
-as a junior software Engineer. And I came back as an intern this summer working on Machine Leaning tools for image defect detections.
+I hold an MS in Statistics and Data Science from the University of Wisconsin–Madison. During my graduate studies, I interned at MLOptic as a Junior Software Engineer, and after graduation, I returned to continue working with the company on machine learning tools for image defect detection.
 
-My earlier background as an undergraduate was in Mathematics and Applied Mathematics. I conducted my initial research experience 
-under Professor Yaping Wu on biological diffusion model and Professor Hengjian, Cui on Mathematical Analysis.
+My undergraduate background is in Mathematics and Applied Mathematics, which provided a strong foundation for my research endeavors. During this time, I gained valuable research experience working with Professor Yaping Wu on biological diffusion models and with Professor Hengjian Cui on mathematical analysis
