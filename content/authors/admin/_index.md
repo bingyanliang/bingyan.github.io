@@ -19,7 +19,7 @@ role: Research Assistant
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Hopkins Computational Imaging Group
-    url: ''
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Machine Learning, Optimization and Stochastic Process.
