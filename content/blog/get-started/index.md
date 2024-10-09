@@ -9,7 +9,6 @@ image:
   caption: ''
 
 authors:
-  - admin
   - Bingyan
 
 tags:
@@ -22,6 +21,6 @@ Welcome 👋
 
 # Fun Facts about Me
 
-1. I started university as a Literature major before taking my path toward mathematics and data science.
+1. I started university as a Literature major before taking my path toward math.
 2. I enjoy watching Air Crash Investigation while on flights.
 3. My cat is adorable and keeps me company during late-night studying.
