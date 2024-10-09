@@ -7,7 +7,7 @@ first_name: Bingyan
 last_name: Liang
 
 # Status emoji
-status: 🎧
+status:
   icon: 🎮
 
 # Is this the primary user of the site?
